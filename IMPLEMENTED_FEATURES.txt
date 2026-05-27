@@ -1,0 +1,18 @@
+IMPLEMENTED FEATURES
+
+1. Multiple Agent Info Blocks
+- + duplicate agent block
+- - remove block
+- add another agent button
+- shared client/compliance/accounting sections
+- save creates multiple agents
+
+2. State -> County -> City cascading dropdowns
+- county/city reset on state change
+- realistic US mappings
+
+3. Home Owners Claim Information
+- dynamic add/remove claim rows
+- collapsible section
+- all 22 claim types
+- status dropdown
